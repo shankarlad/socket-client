@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+/*
+    * The canvas element is where we will draw.
+    * It is 400px wide and 200px tall.
+*/ 
+canvas {
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    background-color: yellow;
+}
